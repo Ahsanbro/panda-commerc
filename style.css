@@ -25,3 +25,26 @@
 {
     padding: 20px 40px;
 }
+.cat1,.cat2,.cat3
+{
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-bottom: 10px
+}
+.cat1
+{
+    background-color: #ffb20b;
+}
+.cat2
+{
+    background-color: #e4066a;
+}
+.cat3
+{
+    background-color: blue;
+}
+.categories img
+{
+    width: 120px;
+}
